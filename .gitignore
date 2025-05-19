@@ -5,3 +5,4 @@ Cargo.lock
 dist/
 traces/
 .direnv
+slides.pptx
