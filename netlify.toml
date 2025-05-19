@@ -1,0 +1,5 @@
+[build]
+base = "simulation"
+publish = "dist"
+command = "cargo install --locked trunk && trunk build --release"
+environment = { NETLIFY_EXPERIMENTAL_BUILD_RUST_SOURCE = "true" }
