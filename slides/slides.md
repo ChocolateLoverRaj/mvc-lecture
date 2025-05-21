@@ -4,7 +4,7 @@ math: mathjax
 ---
 # Physics, Calculus, and Safe Driving
 
-![bg](https://images.pexels.com/photos/10102313/pexels-photo-10102313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![bg left](https://images.pexels.com/photos/10102313/pexels-photo-10102313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ---
 # Quick Survey
